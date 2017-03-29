@@ -2,8 +2,6 @@ if (!require("install.load")) install.packages("install.load")
 install.load::install_load("shiny", "RODBC", "openxlsx", "RPostgreSQL")
 
 t0000<-Sys.time()
-c <- "a"
-c <- "a"
 
 source("Z:\\github\\connect.inc")
 
